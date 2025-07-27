@@ -1,0 +1,12 @@
+[
+  { "name": "raju", "price": 123, "isStudent": true, "company": "iapple" },
+  { "name": "simran", "price": 299, "isStudent": false, "company": "iapple1" },
+  { "name": "amit", "price": 85, "isStudent": true, "company": "iapple2" },
+  { "name": "neha", "price": 150, "isStudent": false, "company": "iapple3" },
+  { "name": "rohan", "price": 400, "isStudent": true,"company": "mi" },
+  { "name": "tina", "price": 120, "isStudent": false,"company": "mi"  },
+  { "name": "vikas", "price": 75, "isStudent": true ,"company": "mi" },
+  { "name": "anju", "price": 320, "isStudent": false,"company": "mi"  },
+  { "name": "anju", "price": 210, "isStudent": true,"company": "oppo"  },
+  { "name": "meena", "price": 180, "isStudent": false,"company": "mi"  }
+]
